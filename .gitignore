@@ -4,3 +4,5 @@
 *.nlo
 *.out
 *.aux
+*eps-converted-to.pdf
+main.pdf
