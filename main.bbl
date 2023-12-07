@@ -1,0 +1,84 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Cruz}{2003}{misc-cruz03}
+Cruz, Renato  \harvardyearleft 2003\harvardyearright , `Padrão brasileiro de
+  {TV} enfrenta oposição', Jornal O Estado de São Paulo.
+\newblock Opinião do Prof. Max Costa.
+
+\harvarditem{Gates}{2000}{phd-gates01}
+Gates, Luis~F.  \harvardyearleft 2000\harvardyearright , Telecomunicações
+  Baseadas na Arquitetura BALSE, Tese de doutorado, UFSCG, Matosinhos, SP.
+
+\harvarditem[Gates et~al.]{Gates, Pinto, Solimães \harvardand\
+  Silva}{2001}{proc-gates01}
+Gates, Luis~F., Rossano~P. Pinto, Eliane~G. Solimães \harvardand\ Katianna
+  Silva  \harvardyearleft 2001\harvardyearright , Mobile agents in
+  telecommunication services, {\em em} J.~C.A.~Loureiro, ed., `Proceedings of
+  {LACOXS}'05', Sociedade Brasileira de Ciências Físicas, Ouro Preto, MG,
+  pp.~50--61.
+
+\harvarditem{IONA}{1999}{man-orbix99}
+IONA  \harvardyearleft 1999\harvardyearright , {\em Orbix Programming
+  Reference}, IONA Technologies PLC, Dublin, Ireland.
+
+\harvarditem{Meireles}{2003}{hp-novet03}
+Meireles, Flamingo  \harvardyearleft 2003\harvardyearright , {NOVET}'s
+  homepage, Página na internet, The Academic Computer Society, Caicó, RN.
+\newline\harvardurl{\url{http://www.aligatesta.com.su/}}
+
+\harvarditem{Mittelbach \harvardand\ Goossens}{2004}{LATEX04}
+Mittelbach, Frank \harvardand\ Michel Goossens  \harvardyearleft
+  2004\harvardyearright , {\em The {\LaTeX} Companion}, 2ª edição,
+  Addison-Wesley, San Francisco, EUA.
+
+\harvarditem{OMG}{2000}{rep-omg2000}
+OMG  \harvardyearleft 2000\harvardyearright , Audio/video streams, version 1.0,
+  OMG Specification formal/2000-01-03, Object Management Group, Paris.
+\newline\harvardurl{\url{http://www.omg.org/}}
+
+\harvarditem{Pedrycz \harvardand\ Gomide}{1998}{book-lamport94}
+Pedrycz, Witold \harvardand\ Fernando A.~C. Gomide  \harvardyearleft
+  1998\harvardyearright , {\em An Introduction to Fuzzy Sets: Analysis and
+  Design (Complex Adaptive Systems)}, MIT Press, Boston.
+
+\harvarditem[Pinto et~al.]{Pinto, Gates \harvardand\ Silva}{2000}{col-pinto00}
+Pinto, Alexandre~S., Luis~F. Gates \harvardand\ Katianna Silva
+  \harvardyearleft 2000\harvardyearright , A {BALSE}-based environment for
+  mobile applications, {\em em} J.~N.de~Souza \harvardand\ R.Boutaba, eds.,
+  `Managing {QoS} in Multimedia Networks', Kluwer Academic Publishers, New
+  York, pp.~163--175.
+
+\harvarditem[Pirmez et~al.]{Pirmez, Carmo \harvardand\
+  Macêdo}{2002}{proc-sbrc02}
+Pirmez, Luci, Luis~Fernando Carmo \harvardand\ Raimundo~José Macêdo, eds.
+  \harvardyearleft 2002\harvardyearright , {\em {XX} Simpósio Brasileiro de
+  Redes de Computadores}, Vol.~1, Núcleo de Computação Eletrônica da UFRJ,
+  Sociedade Brasileira de Computação, Rio de Janeiro.
+
+\harvarditem{Santos \harvardand\ Von-Zuben}{2000}{inbook-santos00}
+Santos, Euripedes~P. \harvardand\ Fernando~J. Von-Zuben  \harvardyearleft
+  2000\harvardyearright , {\em Recurrent Neural Networks: Design and
+  Applications}, Vol.~13 de {\em International Series on Computational
+  Intelligence}, CRC Press, Madrid, capítulo Efficient Second-Order Learning
+  Algorithms for Discrete-Time Recurrent Neural Networks, pp.~47--75.
+
+\harvarditem{Santos-Filho}{2003}{msc-santos03}
+Santos-Filho, José C.~S.  \harvardyearleft 2003\harvardyearright ,
+  Combinação por ganho igual em ambiente com desvanecimento arbitrário,
+  Dissertação de mestrado, Faculdade de Engenharia Elétrica e de
+  Computação, UNICAMP, Campinas, SP.
+
+\harvarditem{Sichman}{2002}{unp-sichman02}
+Sichman, Jaime~S.  \harvardyearleft 2002\harvardyearright , Sobre agentes
+  móveis e fixos.
+\newblock Comunicação pessoal por e-mail.
+
+\harvarditem[Solimães et~al.]{Solimães, Mircolles, Pereira, Americano, Silva,
+  Borges \harvardand\ Magalhães}{2003}{art-solimaes03}
+Solimães, Eliane~G., Antonio~T. Mircolles, Jamerson~L. Pereira, Bruno~G.
+  Americano, Katianna Silva, Marcelo Borges \harvardand\ Mauricio~F. Magalhães
+   \harvardyearleft 2003\harvardyearright , `A virtual laboratory for
+  autonomous airplanes experiments', {\em IEEE Transactions on Education} {\bf
+  46}(1),~37--42.
+
+\end{thebibliography}

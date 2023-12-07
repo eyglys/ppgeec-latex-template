@@ -1,0 +1,92 @@
+% !TEX root =../main.tex
+%
+% ********** Página de Rosto
+%
+
+% titlepage gera páginas sem numeração
+\begin{titlepage}
+
+\begin{center}
+
+\small
+
+% O comando @{} no ambiente tabular x é para criar um novo delimitador
+% entre colunas que não a barra vertical | que é normalmente utilizada.
+% O delimitador desejado vai entre as chaves. No exemplo, não há nada,
+% de modo que o delimitador é vazio. Este recurso está sendo usado para
+% eliminar o espaço que geralmente existe entre as colunas
+\begin{tabularx}{\linewidth}{@{}l@{}C@{}r@{}}
+% A figura foi colocada dentro de um parbox para que fique verticalmente
+% centralizada em relação ao resto da linha
+\parbox[c]{3cm}{\includegraphics[width=\linewidth]{./figuras/UFRN}} &
+\begin{center}
+\textsf{\textsc{Universidade Federal do Rio Grande do Norte\\
+Centro de Tecnologia\\
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação}}
+\end{center} &
+\parbox[c]{2cm}{\includegraphics[width=\linewidth]{./figuras/PPgEE}}
+\end{tabularx}
+
+% O vfill é um espaço vertical que assume a máxima dimensão possível
+% Os vfill's desta página foram utilizados para que o texto ocupe
+% toda a folha
+\vfill
+
+\LARGE
+
+\textbf{\titulo}
+
+\vfill
+
+\Large
+
+\textbf{\nome}
+
+\vfill
+
+\normalsize
+
+Orientador: \orientadorTitulo\ \orientadorNome 
+\ift{\coorientadorExiste}{\\[2ex] Co-orientador: \coorientadorTitulo\ \coorientadorNome}
+
+
+\vfill
+
+\hfill
+\ifnum\tituloPretendido=0
+  \newcommand{\tmpTitulo}{Mestre em Ciências}
+\else
+  \newcommand{\tmpTitulo}{Doutor em Ciências}
+\fi
+
+\ifnum\etapaTrabalho=0
+  \newcommand{\tmpTipoTrabalho}{Proposta de Tema para Qualificação}
+\else
+  \ifnum\tituloPretendido=0
+    \newcommand{\tmpTipoTrabalho}{Dissertação de Mestrado}
+  \else
+    \newcommand{\tmpTipoTrabalho}{Tese de Doutorado}
+  \fi
+\fi
+
+\parbox{0.5\linewidth}{\textbf{\tmpTipoTrabalho} apresentada ao Programa de Pós-Graduação em Engenharia Elétrica e de Computação da UFRN
+(área de concentração: \areaConcentracao)
+como parte dos requisitos para obtenção do título de \tmpTitulo .
+}
+
+\vfill
+
+\large
+
+% Este número de ordem deve ser obtido na coordenação do PPgEE
+% Corresponde ao número seqüencial da sua tese ou dissertação:
+% por exemplo, a 25ª tese de doutorado terá o número de ordem D25
+% Evidentemente, este dado não existe para propostas de tema, caso
+% em que a próxima linha deve ser comentada.
+Número de ordem PPgEEC: \numeroOrdem
+
+Natal, RN, \defesaMes\ de \defesaAno
+
+\end{center}
+
+\end{titlepage}

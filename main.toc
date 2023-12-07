@@ -1,0 +1,40 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{Sumário}{i}{section*.4}%
+\contentsline {chapter}{Lista de Figuras}{iii}{section*.6}%
+\contentsline {chapter}{Lista de Tabelas}{v}{section*.8}%
+\contentsline {chapter}{\numberline {1}Introdução}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Processando textos com \LaTeX }{2}{section.1.1}%
+\contentsline {chapter}{Lista de Símbolos e Abreviaturas}{1}{section*.10}%
+\contentsline {chapter}{\numberline {2}Teoria}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Dimensões}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Divisões do documento e referências cruzadas}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Seções}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Subseções}{7}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Índices}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Sumário}{8}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Listas de figuras e tabelas}{8}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Lista de símbolos (glossário)}{8}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Bibliografia}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Considerações finais}{10}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Trabalhos relacionados}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Expressões matemáticas}{13}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Equações}{15}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Expressões multilinhas}{15}{subsection.3.1.2}%
+\contentsline {chapter}{\numberline {4}Problema}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Elementos flutuantes}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Posicionamento dos elementos flutuantes}{18}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Tabelas em \LaTeX }{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Figuras em \LaTeX }{19}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Imagens e fotos}{20}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Figuras sintéticas}{21}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Ferramentas para desenhos e esquemas}{24}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Ferramentas para gráficos}{25}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Conclusões}{25}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Implementação}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Algoritmos}{27}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Experimentos e Resultados}{31}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Conclusão}{33}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Etapas de Homologação do Título}{33}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Para saber mais}{34}{section.7.2}%
+\contentsline {chapter}{Referências bibliográficas}{35}{section*.12}%
+\contentsline {chapter}{\numberline {A}Informações adicionais}{37}{appendix.A}%
