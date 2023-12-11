@@ -6,4 +6,5 @@
 *.aux
 *.toc
 *eps-converted-to.pdf
+main.synctex.gz
 main.pdf
