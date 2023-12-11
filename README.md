@@ -4,7 +4,8 @@ Template em latex para dissertações e teses do Programa de Pós-graduação em
 **AVISO IMPORTANTE**: Este template não é fornecido oficinalmente pelo PPgEEC, seu objetivo é auxiliar os pós-graduandos na preparação de seus textos.
 
 ## Contribuições
-1. Centralização de configurações (nome, título do trabalho, orientadores, etc) no arquivo `lib/variaveis.tex`
+1. Centralização de configurações (nome, título do trabalho, orientadores, etc) no arquivo `lib/variaveis.tex`;
+2. Comentários de controle de compilação para a extensão [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) do VSCode;
 
 ## Citações
 
