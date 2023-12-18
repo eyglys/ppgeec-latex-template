@@ -5,7 +5,8 @@ Template em latex para dissertações e teses do Programa de Pós-graduação em
 
 ## Contribuições
 1. Centralização de configurações (nome, título do trabalho, orientadores, etc) no arquivo `lib/variaveis.tex`;
-2. Comentários de controle de compilação para a extensão [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) do VSCode;
+2. Programação dos elementos textuais condicionais (mestrado e doutorado), dependendo do tipo de trabalho configurado em `lib\variaveis.tex`;
+3. Comentários de controle de compilação para a extensão [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) do VSCode;
 
 ## Citações
 
