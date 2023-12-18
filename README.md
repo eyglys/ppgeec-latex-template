@@ -1,18 +1,18 @@
 # ppgeec-latex-template
 Template em latex para dissertações e teses do Programa de Pós-graduação em Engenharia Elétrica e Computação (PPgEEC) da UFRN.
 
-**AVISO IMPORTANTE**: Este template não é fornecido oficinalmente pelo PPgEEC, seu objetivo é auxiliar os pós-graduandos na preparação de seus textos.
+**AVISO IMPORTANTE**: Este template não é fornecido oficinalmente pelo PPgEEC, seu objetivo é auxiliar os pós-graduandos a concentrarem os esforços na produção de seus textos sem a preocupação de localizar e editar elementos pré-textuais.
 
 ## Contribuições
 1. Centralização de configurações (nome, título do trabalho, orientadores, etc) no arquivo `lib/variaveis.tex`;
 2. Programação dos elementos textuais condicionais (mestrado e doutorado), dependendo do tipo de trabalho configurado em `lib\variaveis.tex`;
-3. Comentários de controle de compilação para a extensão [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) do VSCode;
+3. Comentários de controle de compilação para a extensão [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) do VSCode;
 
 ## Citações
 
-Este modelo de tese foi criado pelo prof. **Adelardo Medeiros** em dezembro de 2005. Passou por revisão pelos alunos de Metodologia da Pesquisa Científica de 2016.1.
+Foi utilizado como documento base o modelo fornecido oficialmente pelo PPgEEC, cujo o README está transcrito abaixo:
+> Modelo de teses e dissertações do PPGEEC - UFRN. Criado pelo prof. Adelardo Medeiros, modificado e organizado ao meu gosto.
 
-A versão utilizada como base para minhas contribuições foi publicada por [Pedro Yochinori no Overleaf](https://www.overleaf.com/latex/templates/template-ppgee-ufrn/njchfrnscgmk).
+Aproveito para deixar meus agradecimentos à **Adelardo Medeiros**, pelo modelo em LaTex.
 
-Possivelmente há muitos outros contribuidores à este trabalho, os que citei acima são os que aparecem no README do template que baixei.
-
+O modelo original pode ser baixado [aqui](https://sigaa.ufrn.br/sigaa/public/programa/documentos.jsf?lc=pt_BR&id=103&idTipo=5).
