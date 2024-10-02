@@ -5,9 +5,9 @@
 \ProvidesPackage{harvard}
 \RequirePackage{ifthen}
 \IfFileExists{html.sty}{\RequirePackage{html}
-\newcommand{\harvardurl}[1]{\htmladdnormallink*{\textbf{URL:} \textit{##1}}{##1}}
+\newcommand{\harvardurl}[1]{\htmladdnormallink*{\textbf{URL:} \url{##1}}{##1}}
 }{
-\newcommand{\harvardurl}[1]{\textbf{URL:} \textit{##1}}
+\newcommand{\harvardurl}[1]{\textbf{URL:} \url{##1}}
 }
 \DeclareOption{full}{\citationmode{full}}
 \DeclareOption{abbr}{\citationmode{abbr}}
